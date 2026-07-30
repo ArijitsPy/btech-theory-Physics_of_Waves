@@ -31,3 +31,4 @@ Everything for this course lives here: weekly tutorial questions, assignment lin
 
 {: .note }
 > New here? Start with [Syllabus](/syllabus.html), then check [Tutorials](/tutorials.html) each week — new sheets are posted before every session.
+> 
